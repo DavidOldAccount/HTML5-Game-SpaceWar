@@ -9,4 +9,5 @@ Remember! If your base is destroyed, you'll lose the game!
 
 Also, you can recode the array or CSS to suit the game!
 
-Link:Will be Added Soon :)
+Link(FullVersion, includes images and sounds): http://yunpan.cn/QahjWaTzfCD23 （The password is：6712）
+
