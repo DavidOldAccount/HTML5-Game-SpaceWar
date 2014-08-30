@@ -23,3 +23,9 @@ You can drive the oilcar into the oilfield, it can deploy to a harvester buidlin
 You can also build ground-turrets and starports with the basement.
 REMEMBER!DO NOT LET THE ENEMY DESTROY THE BASE!
 
+
+
+How To Use It As a Game Framework
+=================================
+
+Throw your own code into the game box, or change the code(include map array, CSS Background).It's really easy for developers.
