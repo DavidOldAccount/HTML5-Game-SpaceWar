@@ -29,3 +29,7 @@ How To Use It As a Game Framework
 =================================
 
 Throw your own code into the game box, or change the code(include map array, CSS Background).It's really easy for developers.
+
+Donate
+======
+You do not have to.
